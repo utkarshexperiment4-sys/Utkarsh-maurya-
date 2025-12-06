@@ -7,7 +7,7 @@ const projectUrls = {
     // ----------------------------------------------------
     'UTKForce AI': 'https://www.utkforceservices.gt.tc/', // (UTKForce AI/Chatbot का नया URL)
     'Quantum Solver Pro': 'http://www.quantumsolverpro.page.gd/', // (Quantum Solver Pro का नया URL)
-    'MeTube Platform': '[APNA ASLI URL YAHAN DALEN]', 
+    'MeTube Platform': 'https://www.metube.42web.io', 
     'UTKForce Store': '[APNA ASLI URL YAHAN DALEN]', 
     'Artificial Earth': 'https://utkarshmauryaai.wixsite.com/artificial-earth-inn', // (यह पुराना URL सेव है)
     'Visionary Channels': '[APNA ASLI URL YAHAN DALEN]', 
